@@ -4,4 +4,4 @@
 
 
 
-[proect 1](https://raw.githubusercontent.com/ink48/IvanKudinov/refs/heads/main/S1_Muzika_bolchich%20gorodov.ipynb)
+[proect 1](https://github.com/ink48/IvanKudinov/blob/main/S1_Muzika_bolchich%20gorodov.ipynb)
