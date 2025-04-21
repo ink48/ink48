@@ -31,6 +31,5 @@
 | 14 | [Выпускной проект: "Коронавирус - старт сервиса для чтения книг по подписке" - "Проект по SQL"](https://github.com/ink48/IvanKudinov/blob/main/Kudinov_Ivan_DA_42_Vipusknoi%20proekt_FINAL_SQL_Servis_chteniy_knig_git.ipynb) | - | SQL |
 
 ### Мои контакты
-Можете написать мне:
 - Телеграмм: [@ivan_kudinov48](https://t.me/ivan_kudinov48)
 
