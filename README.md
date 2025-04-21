@@ -33,3 +33,4 @@
 ### Мои контакты
 - Телеграмм: [@ivan_kudinov48](https://t.me/ivan_kudinov48)
 
+![1](https://github.com/ink48/IvanKudinov/blob/main/анализ-данных-для-гит_.jpg)
