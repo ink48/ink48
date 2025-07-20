@@ -15,9 +15,10 @@
 
 | № п/п | Название проекта | Файл проекта  | Инструменты |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| Создание скрипта погоды (API, SQL, BI-инструменты, Aiogram) |
 | 1 | Создание скрипта погоды (API, SQL, BI-инструменты, Aiogram) | [Получение списка городов РФ со страницы Википедии](https://github.com/ink48/IvanKudinov/blob/main/Parser_WIKI_git.ipynb) | Python |
 |  |  | [Получение погодных данных с сайта open-meteo.com](https://github.com/ink48/IvanKudinov/blob/main/Parsing_Open-meteo_git.ipynb) | Python |
-
+|  |  | [Объединение скачанных городов в один файл](https://github.com/ink48/IvanKudinov/blob/main/Unification_city_git.ipynb) | Python |
 
 
 ### Мои проекты
