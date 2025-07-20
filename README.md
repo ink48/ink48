@@ -11,14 +11,18 @@
 
 Мой путь развития привел меня от работы обычным экономистом в анализ больших данных, в который я с особой страстью погрузился с апреля 2024 года и продолжаю развиваться.
 
-### Pet-проекты
+### Pet-проект "Создание скрипта погоды (API, SQL, BI-инструменты, Aiogram)"
 
-| № п/п | Название проекта | Файл проекта  | Инструменты |
+| № п/п | Рабочий файл | Описание  | Стек технологий |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| Создание скрипта погоды (API, SQL, BI-инструменты, Aiogram) |
-| 1 | Создание скрипта погоды (API, SQL, BI-инструменты, Aiogram) | [Получение списка городов РФ со страницы Википедии](https://github.com/ink48/IvanKudinov/blob/main/Parser_WIKI_git.ipynb) | Python |
-|  |  | [Получение погодных данных с сайта open-meteo.com](https://github.com/ink48/IvanKudinov/blob/main/Parsing_Open-meteo_git.ipynb) | Python |
-|  |  | [Объединение скачанных городов в один файл](https://github.com/ink48/IvanKudinov/blob/main/Unification_city_git.ipynb) | Python |
+| 1 | [Получение списка городов РФ](https://github.com/ink48/IvanKudinov/blob/main/Parser_WIKI_git.ipynb) | 1. Подготовка базы данных со списком городов РФ со страницы Википедии. 2. Получение координат для списка городов  | Python (API, geopy, requests, tqdm) |
+| 2 |  | [Получение погодных данных с сайта open-meteo.com](https://github.com/ink48/IvanKudinov/blob/main/Parsing_Open-meteo_git.ipynb) | Python |
+| 3 |  | [Объединение скачанных городов в один файл](https://github.com/ink48/IvanKudinov/blob/main/Unification_city_git.ipynb) | Python |
+
+
+1. Подготовка базы данных с историческим импортом погоды городов РФ
+1.1. Найти и сохранить список городов РФ 
+1.2. Получить координаты для списка городов из пункта 1.1 
 
 
 ### Мои проекты
